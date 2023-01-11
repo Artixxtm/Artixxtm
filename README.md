@@ -7,7 +7,7 @@
 - 🤝🏻 I’m looking to collaborate with other content creators
 - 🎯 2023 Goals: Learn Node.js, MongoDB, Express.js and improve my React Skills
 - ⚡ Fun fact: I like sports [ karate ], play tennis / volleyball
-- 💼 My portfolio - [Portfolio](https://www.linkedin.com/in/hazemessamsaleh](https://artixxportfolio.netlify.app)
+- 💼 My portfolio - [Portfolio](https://artixxportfolio.netlify.app)
 
 ### Connect with me:
 
