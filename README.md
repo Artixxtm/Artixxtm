@@ -18,8 +18,8 @@
 [![website](./img/telegram-light.png)](https://t.me/Artixx_rich_boy#gh-light-mode-only)
 [![website](./img/telegram-dark.png)](https://t.me/Artixx_rich_boy#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/mail-light.png)](http://officalwoolf@gmail.com)
-[![website](./img/mail-dark.png)](http://officalwoolf@gmail.com)
+[![website](./img/mail-light.png)](http://officalwoolf@gmail.com#gh-light-mode-only)
+[![website](./img/mail-dark.png)](http://officalwoolf@gmail.com#gh-dark-mode-only)
 
 ### Languages and Tools:
 
