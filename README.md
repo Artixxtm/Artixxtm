@@ -1,11 +1,11 @@
 <h2>Hi there, I'm Artem - [Artixx] <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h2>
 
-## 👨🏻‍💻 I'm a Front-end Developer
+## 👨🏻‍💻 Front-end Developer
 
 - 📚 I’m currently learning everything
 - 🤝🏻 I’m looking to collaborate with other content creators
 - 🎯 2023 Goals: Learn Node.js, MongoDB, Express.js and improve my React Skills
-- ⚡ Fun fact: I like sports ( karate ), play tennis / volleyball
+- ⚡ Fun fact: I like sports [ karate ], play tennis / volleyball
 
 ### Connect with me:
 
@@ -14,6 +14,9 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/artix_25#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/artix_25#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://t.me/Artixx_rich_boy#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://t.me/Artixx_rich_boy#gh-dark-mode-only)
 
 ### Languages and Tools:
 
