@@ -1,4 +1,4 @@
-Hi there, I'm Artem - [Artixx] 👋 
+<h2>Hi there, I'm Artem - [Artixx] 👋 </h2>
 
 ## 👨🏻‍💻 I'm a Front-end Developer
 
