@@ -15,8 +15,8 @@
 [![website](./img/instagram-light.svg)](https://www.instagram.com/artix_25#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/artix_25#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://t.me/Artixx_rich_boy#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://t.me/Artixx_rich_boy#gh-dark-mode-only)
+[![website](./img/telegram-light.png)](https://t.me/Artixx_rich_boy#gh-light-mode-only)
+[![website](./img/telegram-dark.png)](https://t.me/Artixx_rich_boy#gh-dark-mode-only)
 
 ### Languages and Tools:
 
