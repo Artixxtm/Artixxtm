@@ -1,4 +1,4 @@
-<h2>Hi there, I'm Artem - [Artixx] <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h2>
+<h1>Hi there, I'm Artem - [Artixx] <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h1>
 <img src="./img/header-artixx.jpg" />
 <h3> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /> Front-end Developer </h3>
 
