@@ -21,6 +21,9 @@
 &nbsp;&nbsp;
 [![website](./img/mail-light.png)](http://officalwoolf@gmail.com#gh-light-mode-only)
 [![website](./img/mail-dark.png)](http://officalwoolf@gmail.com#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/logo-patreon-white.png)](https://patreon.com/user?u=69664993#gh-light-mode-only)
+[![website](./img/logo-patreon-black.png)](https://patreon.com/user?u=69664993#gh-dark-mode-only)
 
 ### Languages and Tools:
 
