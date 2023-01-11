@@ -1,6 +1,6 @@
 # Hi there, I'm Artem - [Artixx] 👋 
 
-## I'm a Front-end Developer
+## 👨🏻‍💻 I'm a Front-end Developer
 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
