@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I like sports [ karate ], play tennis / volleyball
 - 💼 My portfolio - [Portfolio](https://artixxportfolio.netlify.app)
 
-### Connect with me:
+<h3> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif](https://thumbs.gfycat.com/GiganticDazzlingAxolotl-max-1mb.gif" width="30" /> Connect with me: </h3>
 
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/artixx-developer-66b608259#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/artixx-developer-66b608259#gh-dark-mode-only)
