@@ -2,7 +2,7 @@
 
 ## 👨🏻‍💻 I'm a Front-end Developer
 
-- 🎓 I’m currently learning everything
+- 📚 I’m currently learning everything
 - 🤝🏻 I’m looking to collaborate with other content creators
 - 🎯 2023 Goals: Learn Node.js, MongoDB, Express.js and improve my React Skills
 - ⚡ Fun fact: I like sports ( karate ), play tennis / volleyball
