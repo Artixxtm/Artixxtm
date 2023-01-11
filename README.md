@@ -22,8 +22,8 @@
 [![website](./img/mail-light.png)](http://officalwoolf@gmail.com#gh-light-mode-only)
 [![website](./img/mail-dark.png)](http://officalwoolf@gmail.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/patreon-light.png)](https://patreon.com/user?u=69664993#gh-light-mode-only)
-[![website](./img/patreon-dark.png)](https://patreon.com/user?u=69664993#gh-dark-mode-only)
+[![website](./img/patreon-dark.png)](https://patreon.com/user?u=69664993#gh-light-mode-only)
+[![website](./img/patreon-light.png)](https://patreon.com/user?u=69664993#gh-dark-mode-only)
 
 ### Languages and Tools:
 
