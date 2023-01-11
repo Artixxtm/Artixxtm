@@ -1,4 +1,4 @@
-<h2>Hi there, I'm Artem - [Artixx] 👋 </h2>
+<h2>Hi there, I'm Artem - [Artixx] <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h2>
 
 ## 👨🏻‍💻 I'm a Front-end Developer
 
