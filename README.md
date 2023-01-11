@@ -1,6 +1,6 @@
 <h2>Hi there, I'm Artem - [Artixx] <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h2>
 
-## 👨🏻‍💻 Front-end Developer
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /> Front-end Developer
 
 - 📚 I’m currently learning everything
 - 🤝🏻 I’m looking to collaborate with other content creators
