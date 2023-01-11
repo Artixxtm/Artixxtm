@@ -15,9 +15,6 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
 [![website]((./img/telegram-light.svg)](https://t.me/Artixx_rich_boy#gh-light-mode-only)
 [![website](./img/telegram-black-icon.svg)](https://t.me/Artixx_rich_boy#gh-dark-mode-only)
 
