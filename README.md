@@ -35,8 +35,10 @@
 [<img align="left" alt="Tailwind" width="26px" src="./img/tailwind-css-icon.svg" style="padding-right:10px;" />][website]
 [<img align="left" alt="Bootstrap" width="26px" src="./img/Bootstrap_logo.svg.png" />][website]
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][website]
+[<img align="left" alt="Three.js" width="26px" src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" style="padding-right:10px;" />][website]
 [<img align="left" alt="JQuery" width="26px" src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" style="padding-right:10px;" />][website]
 [<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][website]
+[<img align="left" alt="MongoDB" width="26px" src="https://www.svgrepo.com/download/331488/mongodb.svg" style="padding-right:10px;" />][website]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][website]
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://artixxportfolio.netlify.app#gh-dark-mode-only)
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://artixxportfolio.netlify.app#gh-light-mode-only)
