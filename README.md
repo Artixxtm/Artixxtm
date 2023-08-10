@@ -8,7 +8,7 @@
 - 🎯 2023 Goals: Learn Node.js, MongoDB, Express.js and improve my React Skills
 - ⚡ Fun fact: I like sports [ karate ], play tennis / volleyball
 - 💼 My portfolio - [Portfolio](https://artixxportfolio.netlify.app)
-- 💼 My CV - [Portfolio](https://artixxportfolio.netlify.app/Artem%20naumenko%20CV.pdf)
+- 💼 My CV - [CV](https://artixxportfolio.netlify.app/Artem%20naumenko%20CV.pdf)
 
 ### Connect with me: 
 
