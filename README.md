@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I like sports [ karate ], play tennis / volleyball
 - 💼 My portfolio - [Portfolio](https://artixxportfolio.netlify.app)
 - 💼 My CV - [Portfolio](https://artixxportfolio.netlify.app/Artem%20naumenko%20CV.pdf)
-- 
+
 ### Connect with me: 
 
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/artixx-developer-66b608259#gh-light-mode-only)
