@@ -47,6 +47,8 @@
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://artixxportfolio.netlify.app#gh-light-mode-only)
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://artixxportfolio.netlify.app#gh-light-mode-only)
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://artixxportfolio.netlify.app#gh-dark-mode-only)
+[<img align="left" alt="NPM" width="26px" src="https://static-00.iconduck.com/assets.00/npm-icon-2048x2048-3xqnd60o.png" style="padding-right:10px;" />][website]
+[<img align="left" alt="Vite" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1039px-Vitejs-logo.svg.png" style="padding-right:10px;" />][website]
 
 [website]: https://artixxportfolio.netlify.app
 [instagram]: https://www.instagram.com/artix_25
