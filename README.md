@@ -1,5 +1,5 @@
 <h1>Hi there, I'm Artem - [Artixx] <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h1>
-<img src="./img/header-artixx.jpg#gh-light-mode-only" />
+<img src="./img/header-artixx-light.jpg#gh-light-mode-only" />
 <img src="./img/header-artixx-darkk.jpg#gh-dark-mode-only" />
 <h3> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /> Front-end Developer </h3>
 
